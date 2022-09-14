@@ -1,15 +1,17 @@
-<h1 align="center"><img src="https://cdn3.emoji.gg/emojis/3397_cherry_blossom.gif" width="35px"> Hi, I'm Greta <img src="https://cdn3.emoji.gg/emojis/3397_cherry_blossom.gif" width="35px"></h1>
-
+<p align="center">
+   <img src="https://i.pinimg.com/originals/17/be/56/17be564b797ff8c1cd5d7a6c56802ad2.gif" width="300px">
+</p>
+<h1 align="center">Hi, I'm Greta</h1>
 Mi nombre es Greta Piacentini, soy de Buenos Aires, Argentina y actualmente estoy completando mis estudios de la carrera de 'Analista Programador Universitario' en la [Facultad de Informática - UNLP](https://www.info.unlp.edu.ar/).
+<br></br>
+✦ Entusiasta del desarrollo orientado a objetos<br>
+✦ Amante del café y los gatos. Me gusta jugar videojuegos, ver anime, y ocasionalmente leer manga. Aprendiendo a jugar Básquet y newbie en Cosplay<br></br>
 
-- ✦ Entusiasta del desarrollo orientado a objetos
-- ✦ Amante del café y los gatos. Me gusta jugar videojuegos, ver anime, y ocasionalmente leer manga. Aprendiendo a jugar Básquet y newbie en Cosplay
-
-## Conectate conmigo
+<h2>Conectate conmigo<img src="https://66.media.tumblr.com/tumblr_mcfql2kXpV1rfjowdo1_500.gif" widht="5px"></h2>
 - Personal ---> <a href="https://instagram.com/gretoide_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a><br>
 - Cosplay ---> <a href="https://instagram.com/gretoide.cos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a><br>
 - GitHub ---> <a href="https://github.com/gretoide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gretoide" height="30" width="40" /></a><br>
-    
+
 <br>
 
 <hr></hr>
