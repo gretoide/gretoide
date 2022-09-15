@@ -7,7 +7,8 @@ Mi nombre es Greta Piacentini, soy de Buenos Aires, Argentina y actualmente esto
 ✦ Entusiasta del desarrollo orientado a objetos<br>
 ✦ Amante del café y los gatos. Me gusta jugar videojuegos, ver anime, y ocasionalmente leer manga. Aprendiendo a jugar Básquet y newbie en Cosplay<br></br>
 
-<h2>Conectate conmigo<img src="https://66.media.tumblr.com/tumblr_mcfql2kXpV1rfjowdo1_500.gif" widht="5px"></h2>
+<h2>Conectate conmigo<img src="https://img.itch.zone/aW1nLzU2MjMxMzUuZ2lm/original/08ZIQG.gif" width="45px"></h2>
+
 - Personal ---> <a href="https://instagram.com/gretoide_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a><br>
 - Cosplay ---> <a href="https://instagram.com/gretoide.cos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a><br>
 - GitHub ---> <a href="https://github.com/gretoide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gretoide" height="30" width="40" /></a><br>
