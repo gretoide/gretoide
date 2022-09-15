@@ -2,7 +2,7 @@
    <img src="https://i.pinimg.com/originals/17/be/56/17be564b797ff8c1cd5d7a6c56802ad2.gif" width="300px">
 </p>
 <h1 align="center">Hi, I'm Greta</h1>
-Mi nombre es Greta Piacentini, soy de Buenos Aires, Argentina y actualmente estoy completando mis estudios de la carrera de 'Analista Programador Universitario' en la [Facultad de Informática - UNLP](https://www.info.unlp.edu.ar/).
+Mi nombre es Greta Piacentini, soy de Buenos Aires, Argentina y actualmente estoy completando mis estudios de la carrera de 'Analista Programador Universitario' en la <ahref="https://www.info.unlp.edu.ar/">Facultad de Informática - UNLP </a>
 <br></br>
 ✦ Entusiasta del desarrollo orientado a objetos<br>
 ✦ Amante del café y los gatos. Me gusta jugar videojuegos, ver anime, y ocasionalmente leer manga. Aprendiendo a jugar Básquet y newbie en Cosplay<br></br>
