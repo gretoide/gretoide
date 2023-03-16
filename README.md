@@ -1,11 +1,11 @@
 <p align="center">
    <img src="https://gmgard.com/Images/Avatar/mimozhihuang.gif?636893279189100000" width = "330px">
 </p>
-<h1 align="center">hi, i'm Gretoide!</h1>
-mi nombre es Greta Piacentini, soy de Buenos Aires, Argentina y actualmente estoy completando mis estudios de la carrera de 'Analista Programador Universitario' en la <ahref="https://www.info.unlp.edu.ar/">Facultad de Informática - UNLP </a>
+<h1 align="center">Hi, i'm Gretoide!</h1>
+Mi nombre es Greta Piacentini, soy de Buenos Aires, Argentina y actualmente estoy completando mis estudios de la carrera de 'Analista Programador Universitario' en la <ahref="https://www.info.unlp.edu.ar/">Facultad de Informática - UNLP </a>
 <br></br>
-✦ entusiasta del desarrollo orientado a objetos<br>
-✦ amante del café y los gatos. Me gusta jugar videojuegos, ver anime, y ocasionalmente leer manga. aprendiendo a jugar Básquet y newbie en cosplay<br></br>
+✦ Entusiasta del desarrollo orientado a objetos<br>
+✦ Amante del café y los gatos. Me gusta jugar videojuegos, ver anime, y ocasionalmente leer manga. aprendiendo a jugar Básquet y newbie en cosplay<br></br>
 <br>
 <h2 align = "center">Conectate conmigo</h2>
 <br>
