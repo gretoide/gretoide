@@ -12,7 +12,7 @@ Mi nombre es Greta Piacentini, soy de Buenos Aires, Argentina y actualmente esto
 * <a href="https://instagram.com/gretoide_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a> Personal <br>
 * <a href="https://instagram.com/gretoide.cos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a> Cosplay<br>
 
-# Languajes I use & Tools 📌
+# Languages I use & Tools 📌
    
 ![Java](https://img.shields.io/badge/Java-2b1c3c?style=for-the-badge&logo=java&logoColor=eb86d8)
 ![Python](https://img.shields.io/badge/Python-2b1c3c?style=for-the-badge&logo=python&logoColor=eb86d8)
