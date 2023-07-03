@@ -4,22 +4,54 @@
 
 # Hi, I'm Gretoide! ✨
    
-Mi nombre es Greta Piacentini, soy de Buenos Aires, Argentina y actualmente estoy completando mis estudios de la carrera de _Analista Programador Universitario_ en la _[Facultad de Informática](https://www.info.unlp.edu.ar/)._
+- 🤎 Mi nombre es Greta Piacentini, soy de Buenos Aires, Argentina y actualmente estoy completando mis estudios de la carrera de _Analista Programador Universitario_ en la _[Facultad de Informática](https://www.info.unlp.edu.ar/)._
 
-* Amante del café y los gatos. Me gusta jugar videojuegos, ver anime y, ocasionalmente, leer manga. También estoy aprendiendo a jugar baloncesto y soy principiante en el mundo del cosplay.
+- 🌙 Amante del café y los gatos. Me gusta jugar videojuegos, ver anime y, ocasionalmente, leer manga. También estoy aprendiendo a jugar baloncesto y soy principiante en el mundo del cosplay.
+
+- 💌 Contacto: <a href="gretaxpiacentini@gmail.com">gretaxpiacentini@gmail.com</a>
 
 # Languages I use & Tools 🍀
-   
-![Java](https://img.shields.io/badge/Java-CCD5AE?style=for-the-badge&logo=java&logoColor=E9EDC9)
-![Python](https://img.shields.io/badge/Python-E9EDC9?style=for-the-badge&logo=python&logoColor=FEFAE0)
-![Pascal](https://img.shields.io/badge/Pascal-FEFAE0?style=for-the-badge&logo=pascal&logoColor=FAEDCD)
-![Git](https://img.shields.io/badge/Git-FAEDCD?style=for-the-badge&logo=git&logoColor=D4A373)
-![RInfo](https://img.shields.io/badge/R_Info-D4A373?style=for-the-badge&logo=android&logoColor=CCD5AE)
-![VCode](https://img.shields.io/badge/Visual_Studio_Code-CCD5AE?style=for-the-badge&logo=visual%20studio&logoColor=E9EDC9)
-![GitLab](https://img.shields.io/badge/GitLab-CCD5AE?style=for-the-badge&logo=gitlab&logoColor=E9EDC9)
-![Streamlit](https://img.shields.io/badge/Streamlit-E9EDC9?style=for-the-badge&logo=streamlit&logoColor=FEFAE0)
+![Java](https://img.shields.io/badge/Java-7C9362?style=for-the-badge&logo=java&logoColor=D9E4C3)
+![Python](https://img.shields.io/badge/Python-A8B988?style=for-the-badge&logo=python&logoColor=D9E4C3)
+![Streamlit](https://img.shields.io/badge/Streamlit-CCD5AE?style=for-the-badge&logo=streamlit&logoColor=E9EDC9)
+ 
+# Primer año 🖱️
+
+<div>
+    <a href="https://github.com/gretoide/CADP">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=CADP&theme=merko" />
+    </a>
+   <a href="https://github.com/gretoide/Taller-de-Programacion">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=Taller-de-Programacion&theme=merko" />
+    </a> 
+   <a href="https://github.com/gretoide/Organizacion-de-Computadoras">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=Organizacion-de-Computadoras&theme=merko" />
+    </a>
+   <a href="https://github.com/gretoide/Arquitectura-de-Computadoras">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=Arquitectura-de-Computadoras&theme=merko" />
+    </a> 
+</div>
+
+# Segundo año 🖱️
+
+<div>
+    <a href="https://github.com/gretoide/Python">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=Python&theme=merko" />
+    </a>
+   <a href="https://github.com/gretoide/OO1">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=OO1&theme=merko" />
+    </a> 
+   <a href="https://github.com/gretoide/FOD">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=FOD&theme=merko" />
+    </a>
+</div>
+
 
 # GitHub Stats
-![gretoide's Stats](https://github-readme-stats.vercel.app/api?username=gretoide&theme=merko&show_icons=true&hide_border=false&count_private=true)
-![gretoide's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gretoide&theme=merko&hide_border=false)
-![gretoide's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gretoide&theme=merko&show_icons=true&hide_border=false&layout=compact)
+<details>
+  <summary>📖</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=gretoide&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="gretoide's Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gretoide&theme=merko&hide_border=false" alt="gretoide's Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gretoide&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="gretoide's Top Languages">
+</details>
