@@ -41,11 +41,6 @@
    <a href="https://github.com/gretoide/OO1">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=OO1&theme=merko" />
     </a> 
-   <a href="https://github.com/gretoide/FOD">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=FOD&theme=merko" />
-    </a>
-</div>
-
 
 # GitHub Stats
 <details>
