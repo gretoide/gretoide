@@ -17,16 +17,16 @@
 
 <div>
     <a href="https://github.com/gretoide/CADP">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=CADP&theme=merko" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=CADP&theme=date_night" />
     </a>
    <a href="https://github.com/gretoide/Taller-de-Programacion">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=Taller-de-Programacion&theme=merko" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=Taller-de-Programacion&theme=date_night" />
     </a> 
    <a href="https://github.com/gretoide/Organizacion-de-Computadoras">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=Organizacion-de-Computadoras&theme=merko" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=Organizacion-de-Computadoras&theme=date_night" />
     </a>
    <a href="https://github.com/gretoide/Arquitectura-de-Computadoras">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=Arquitectura-de-Computadoras&theme=merko" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=Arquitectura-de-Computadoras&theme=date_night" />
     </a> 
 </div>
 
