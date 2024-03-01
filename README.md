@@ -1,10 +1,8 @@
-<p align="center">
-   <img src="https://64.media.tumblr.com/50b70c4ece45ecdb1dd7cc5265f24639/1f678acf38a1b251-cc/s540x810/643db11ae6cd9edae54dd7d6b7f39db129dac281.png" width="330px">
-</p>
+
 
 # Hi, I'm Gretoide! ✨
    
-- 🤎 Mi nombre es Greta Piacentini, soy de Buenos Aires, Argentina y actualmente estoy completando mis estudios de la carrera de _Analista Programador Universitario_ en la _[Facultad de Informática](https://www.info.unlp.edu.ar/)._
+- 🦇 Mi nombre es Greta Piacentini, soy de Buenos Aires, Argentina y actualmente estoy completando mis estudios de la carrera de _Analista Programador Universitario_ en la _[Facultad de Informática](https://www.info.unlp.edu.ar/)._
 
 - 🌙 Amante del café y los gatos. Me gusta jugar videojuegos, ver anime y, ocasionalmente, leer manga. También estoy aprendiendo a jugar baloncesto y soy principiante en el mundo del cosplay.
 
@@ -36,17 +34,17 @@
 
 <div>
     <a href="https://github.com/gretoide/Python">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=Python&theme=merko" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=Python&theme=date_night" />
     </a>
    <a href="https://github.com/gretoide/OO1">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=OO1&theme=merko" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=gretoide&repo=OO1&theme=date_night" />
     </a> 
 
 # GitHub Stats
 <details>
   <summary>📖</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=gretoide&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="gretoide's Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gretoide&theme=merko&hide_border=false" alt="gretoide's Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gretoide&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="gretoide's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=gretoide&theme=date_night&show_icons=true&hide_border=false&count_private=true" alt="gretoide's Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gretoide&theme=date_night&hide_border=false" alt="gretoide's Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gretoide&theme=date_night&show_icons=true&hide_border=false&layout=compact" alt="gretoide's Top Languages">
 </details>
