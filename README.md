@@ -8,11 +8,6 @@
 
 - 💌 Contacto: <a href="gretaxpiacentini@gmail.com">gretaxpiacentini@gmail.com</a>
 
-# Languages I use & Tools ❤️
-![Java](https://img.shields.io/badge/Java-7C9362?style=for-the-badge&logo=java&logoColor=D9E4C3)
-![Python](https://img.shields.io/badge/Python-A8B988?style=for-the-badge&logo=python&logoColor=D9E4C3)
-![Streamlit](https://img.shields.io/badge/Streamlit-CCD5AE?style=for-the-badge&logo=streamlit&logoColor=E9EDC9)
- 
 # Primer año 🖱️
 
 <div>
