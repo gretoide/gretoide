@@ -4,11 +4,11 @@
    
 - 🦇 Mi nombre es Greta Piacentini, soy de Buenos Aires, Argentina y actualmente estoy completando mis estudios de la carrera de _Analista Programador Universitario_ en la _[Facultad de Informática](https://www.info.unlp.edu.ar/)._
 
-- 🌙 Amante del café y los gatos. Me gusta jugar videojuegos, ver anime y, ocasionalmente, leer manga. También estoy aprendiendo a jugar baloncesto y soy principiante en el mundo del cosplay.
+- 🌙 Amante del café y los gatos. Me gusta jugar videojuegos, ver anime y, ocasionalmente, leer manga.
 
 - 💌 Contacto: <a href="gretaxpiacentini@gmail.com">gretaxpiacentini@gmail.com</a>
 
-# Languages I use & Tools 🍀
+# Languages I use & Tools ❤️
 ![Java](https://img.shields.io/badge/Java-7C9362?style=for-the-badge&logo=java&logoColor=D9E4C3)
 ![Python](https://img.shields.io/badge/Python-A8B988?style=for-the-badge&logo=python&logoColor=D9E4C3)
 ![Streamlit](https://img.shields.io/badge/Streamlit-CCD5AE?style=for-the-badge&logo=streamlit&logoColor=E9EDC9)
