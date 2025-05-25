@@ -28,7 +28,7 @@
 
 
 
-### 🕯𝔄𝔟𝔬𝔲𝔱 𝔪𝔢 ── .✦
+### 𝔄𝔟𝔬𝔲𝔱 𝔪𝔢 ── .✦
 
 - 🖤 I’m Greta Piacentini, a front-end focused developer from Buenos Aires, Argentina.
 - 🌷 Currently studying Computer Programming Analysis at the UNLP School of Informatics.
