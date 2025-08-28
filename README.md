@@ -17,9 +17,7 @@
   <img src="https://img.shields.io/badge/-Django-4C4255?style=for-the-badge&logo=django&logoColor=f378bf" />
   <img src="https://img.shields.io/badge/-Streamlit-2f253e?style=for-the-badge&logo=streamlit&logoColor=f378bf" />
   <img src="https://img.shields.io/badge/-Bootstrap-c773f6?style=for-the-badge&logo=bootstrap&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-4C4255?style=for-the-badge&logo=tailwindcss&logoColor=f378bf" />
 
-  <img src="https://img.shields.io/badge/-PostgreSQL-2f253e?style=for-the-badge&logo=postgresql&logoColor=c773f6" />
   <img src="https://img.shields.io/badge/-MySQL-4C4255?style=for-the-badge&logo=mysql&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-SQLite-f378bf?style=for-the-badge&logo=sqlite&logoColor=2f253e" />
 
@@ -29,7 +27,6 @@
   <img src="https://img.shields.io/badge/-Canva-4C4255?style=for-the-badge&logo=canva&logoColor=f378bf" />
   <img src="https://img.shields.io/badge/-Lightroom-2f253e?style=for-the-badge&logo=adobelightroom&logoColor=c773f6" />
 
-  <img src="https://img.shields.io/badge/-Matplotlib-2f253e?style=for-the-badge&logo=matplotlib&logoColor=f378bf" />
   <img src="https://img.shields.io/badge/-Pandas-c773f6?style=for-the-badge&logo=pandas&logoColor=2f253e" />
 
   <img src="https://img.shields.io/badge/-Git-f378bf?style=for-the-badge&logo=git&logoColor=2f253e" />
